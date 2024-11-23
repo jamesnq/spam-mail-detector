@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+spam_model.pkl
+vectorizer.pkl
+spam_dataset.csv
+processed_spam_dataset.csv
